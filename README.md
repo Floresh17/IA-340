@@ -23,5 +23,5 @@ This is my *Fall Semester* **3 Credit** [IA340](https://catalog.jmu.edu/preview_
 
 1. Lab 1
 2. Roll Call Attendance
-3. 
+3. Mini Project
 4. **Final Project**
